@@ -3,11 +3,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=1EFFEF&width=550&lines=Simple+QR+Code+Generator;Made+with+HTML%2C+CSS%2C+JavaScript;Downloadable+%7C+Responsive+%7C+Custom+Size" />
 </p>
+<img src="assests/qrmain.png" alt="Portfolio Screenshot" width="80%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/sauryakapoor15/QR-Code-Generator?color=1effef&style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/sauryakapoor15/QR-Code-Generator?style=flat-square&color=1effef" />
-  <img src="https://img.shields.io/github/license/sauryakapoor15/QR-Code-Generator?style=flat-square&color=1effef" />
+    <a href="https://github.com/sauryakapoor15/Qr-code-generator"> <img src="https://img.shields.io/github/repo-size/sauryakapoor15/Qr-code-generator?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/Qr-code-generator/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/sauryakapoor15/Qr-code-generator?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/Qr-code-generator/issues"> <img src="https://img.shields.io/github/issues/sauryakapoor15/Qr-code-generator?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/Qr-code-generator/network/members"> <img src="https://img.shields.io/github/forks/sauryakapoor15/Qr-code-generator?color=red&logo=github&logoColor=green&style=for-the-badge" /></a> 
+  <img src="https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
 ---
