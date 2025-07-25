@@ -1,7 +1,7 @@
 # 🔳 QR Code Generator by TeamSukun
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=1EFFEF&width=500&lines=Simple+QR+Code+Generator;Made+with+HTML%2C+CSS%2C+JavaScript;Downloadable+%7C+Responsive+%7C+Custom+Size" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=1EFFEF&width=550&lines=Simple+QR+Code+Generator;Made+with+HTML%2C+CSS%2C+JavaScript;Downloadable+%7C+Responsive+%7C+Custom+Size" />
 </p>
 
 <p align="center">
