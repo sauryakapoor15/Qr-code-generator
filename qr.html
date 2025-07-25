@@ -1,0 +1,54 @@
+<!-- follow for more github - @sauryakapoor15 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="qr-style.css">
+    <title>QR Code Generator by TeamSukun</title>
+</head>
+<body>
+    <header id="header-inner"> 
+        <div class="container"> 
+           <!-- Navbar -->
+           <nav id="main-nav">
+               <a href="">
+               <img src="images/github.jpg" alt="Logo" id="logo" height="100" width = "100" align = "left">
+               </a>
+    <div class="box">
+        <div class="qr-header">
+            <h1>Generate Product QR</h1>
+            <input type="text" placeholder="Type your product URL" id="qr-text">
+            <div>
+            <label for="sizes">Select Size:</label>
+            <select id="sizes">
+                <option value="100">100 x 100</option>
+                <option value="200">200 x 200</option>
+                <option value="300">300 x 300</option>
+                <option value="400">400 x 400</option>
+                <option value="500">500 x 500</option>
+                <option value="600">600 x 600</option>
+                <option value="700">700 x 700</option>
+                <option value="800">800 x 800</option>
+                <option value="900">900 x 900</option>
+                <option value="1000">1000 x 1000</option>
+            </select>
+        </div>
+        </div>
+        <div class="qr-body"></div>
+        <div class="qr-footer">
+            <a href="" id="generateBtn">Generate</a>
+            <a href="" id="downloadBtn" download="QR_Code.png">Download</a>
+        </div>
+        <br>
+         <pre>  @ Powered by Saurya Kapoor</pre>
+        </div>
+          
+    </div>
+    <!-- follow for more github - @sauryakapoor15 -->
+    <script src="qr-script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</body>
+</html>
