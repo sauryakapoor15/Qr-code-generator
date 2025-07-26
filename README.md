@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=1EFFEF&width=550&lines=Simple+QR+Code+Generator;Made+with+HTML%2C+CSS%2C+JavaScript;Downloadable+%7C+Responsive+%7C+Custom+Size" />
 </p>
-<img src="assests/qrmain.png" alt="Portfolio Screenshot" width="80%"/>
+<img src="assests/qrmain.png" alt="Portfolio Screenshot" align= "center" ,width="80%"/>
 
 <p align="center">
     <a href="https://github.com/sauryakapoor15/Qr-code-generator"> <img src="https://img.shields.io/github/repo-size/sauryakapoor15/Qr-code-generator?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
